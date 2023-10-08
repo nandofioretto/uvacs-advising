@@ -85,9 +85,22 @@ _(3 credits  / Prerequisites: TBD)_
 {: .no_toc }
 _(3 credits  / Prerequisites: TBD)_  
 
-### CS 6501: TBD w/ Prof. Fioretto
+### CS 6501: Responsible AI Seminar: Privacy, Fairness, and Robustness w/ Prof. Fioretto
 {: .no_toc }
 _(3 credits  / Prerequisites: TBD)_  
+
+This course explores the intersection of differential privacy, fairness, and robustness in the context of machine learning and decision tasks. Students will delve into the theoretical foundations, practical applications, and ethical implications of these concepts, with a focus on developing responsible AI systems. Part of this seminar will be focused on studying responsible generative AI. 
+
+**Course Objectives**:
+1. Understand the principles of differential privacy, fairness, and robustness in machine learning.
+2. Analyze the trade-offs and synergies between privacy, fairness, and robustness.
+3. Develop skills to implement basic differentially private, fair, and robust machine learning algorithms.
+4. Critically evaluate the ethical implications of AI and machine learning technologies.
+5. Conduct original research in the field of responsible AI.
+
+**Expected Background**: Students are expected to have some prior basic background in machine learing and optimization. Students are also expected to learn whatever background they need on the class topics on their own. The seminar is open for PhD students and research-focused graduate students with interests in machine learning, privacy, fairness, and related topics.
+
+**Course Content**: In this seminar, we'll cover materials ranging from seminal papers, recent research articles, to more casual blogs. While our focus is primarily on the technical facets of privacy, fairness, and robustness, we will also touch their ramification in societal repercussions.
 
 ### CS 6501: Digital Signal Processing w/ Prof. Fletcher
 {: .no_toc }
